@@ -1,0 +1,37 @@
+_repo: La-Comedie-humaine-Volume-06-Scenes-de-la-vie-de-Province-Tome-02_51381
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    - De Balzac, Honoré
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2016-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51381'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature'
+- GITenberg
+tableOfContents: 'Les Célibataires: (deuxième histoire) Le Curé de Tours -- Les Célibataires:
+  (troisième histoire) Un Ménage de garçon -- Les Parisiens en province: (première
+  histoire) L''Illustre Gaudissart -- Les Parisiens en province: (deuxième histoire)
+  La Muse du département.'
+title: La Comédie humaine - Volume 06. Scènes de la vie de Province - Tome 02
+url: http://www.gutenberg.org/ebooks/51381
